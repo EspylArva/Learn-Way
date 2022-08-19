@@ -7,6 +7,6 @@ Notes taken from resources available at [Secure Code Warrior website](https://po
 Covered topic are cyber-security related, and include basics and good practices to keep in mind during software development.
 
 ## Software Engineering & Clean Coding
-Notes taken based on [this study path](https://github.com/joebew42/study-path), kindly recommended by [Code Insider](https://codeinsider.fr/)
+Notes taken based on [this study path](https://github.com/joebew42/study-path) (released under the CC BY-SA 4.0 license), kindly recommended by [Code Insider](https://codeinsider.fr/)
 
 **Incoming**
